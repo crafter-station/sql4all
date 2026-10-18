@@ -23,6 +23,8 @@ export const metadata: Metadata = {
   title: "SQL4All - Aprende SQL Interactivamente",
   description:
     "Domina SQL paso a paso con ejercicios prácticos y retroalimentación inmediata",
+  authors: [{ name: "Cristian Correa", url: "https://www.cris.fast" }],
+  creator: "Cristian Correa",
   openGraph: {
     title: "SQL4All - Aprende SQL Interactivamente",
     description:

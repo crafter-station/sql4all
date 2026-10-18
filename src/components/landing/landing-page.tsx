@@ -167,7 +167,16 @@ export function LandingPage() {
 
             <p className="text-xs text-muted-foreground/40">
               © {new Date().getFullYear()} sql4All. Aprende SQL de forma
-              interactiva.
+              interactiva. Creado por{" "}
+              <a
+                href="https://www.cris.fast"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-muted-foreground transition-colors"
+              >
+                Cristian Correa
+              </a>
+              .
             </p>
           </motion.div>
         </div>
